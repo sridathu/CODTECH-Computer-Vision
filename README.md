@@ -21,3 +21,12 @@ Potential Display in Google Colab:
 
 cv2_imshow(img): This line, assuming it's similar to OpenCV's imshow, would display the final image with the drawn rectangles on the detected faces within a window in Google Colab's environment.
 In essence, this code snippet performs face detection in a given image, converts the image to grayscale for better detection, and then displays the original color image with red rectangles drawn around the detected faces.
+
+
+![Screenshot 2024-07-19 170544](https://github.com/user-attachments/assets/74c18ec5-4b4a-4d2d-89f3-606d0b254ed9)
+
+
+
+
+
+
